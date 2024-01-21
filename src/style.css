@@ -1,0 +1,7 @@
+@tailwind components;
+@tailwind utilities;
+@tailwind base;
+@font-face {
+    font-family: "yekan-bakh";
+    src: url("./fonts/YekanBakh-Regular.ttf");
+}
